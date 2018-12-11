@@ -8,7 +8,7 @@ If you have any questions please do not hesitate to raise them with us. Please n
 Good luck, take your time, and have fun! 😊
 
 ## Back-end Code Challenges
-The [BackEndChallenges.md](questions/BackEndChallenges.md) file contains the instructions for the back-end challenges that you are required to complete.
+The [Back-end Challenges](questions/BackEndChallenges.md) file contains the instructions for the back-end challenges that you are required to complete.
 
 ## Front-end Challenges
 The [Front-end Challenges](questions/FrontEndChallenges.md) file contains the instructions for the the front-end challenges that you are required to complete.
