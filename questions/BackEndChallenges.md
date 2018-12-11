@@ -19,7 +19,7 @@ Likes(new List<string> {"Max", "John", "Mark"}) => "Max, John and Mark like this
 Likes(new List<string> {"Alex", "Jacob", "Mark", "Max"}) => "Alex, Jacob and 2 others like this"
 ```
 
-* Note: if the amount of people who like something is 4 or more, print out the first 2 names following by how many others like it.
+__Note__: if the amount of people who like something is 4 or more, print out the first 2 names following by how many others like it.
 
 ## Task 3
 The last task is about refactoring of code. Below you are given a class that creates robots and cars, this class uses a robot service, a part service, and a car service, which can be any web services (RESTful or SOAP).
