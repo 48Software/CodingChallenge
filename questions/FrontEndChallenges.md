@@ -81,7 +81,7 @@ function compareIt(num1, num2) {
 compareIt(5, "5");
 ```
 
-1. Why will the below function call return true? 
+1. Why will the function call return true? 
 2. How could one change this function so that data types are checked as well as values?
 
 ### Section 3
@@ -94,7 +94,7 @@ function legal(x) {
 }
 ```
 
-1. Why will the below function be parsed correctly? 
+1. Why will the function be parsed correctly? 
 2. How could you introduce a stricter syntax to variable/function declaration and avoid this behaviour?
 
 ## Part 3
