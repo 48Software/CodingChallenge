@@ -46,20 +46,20 @@ public class Factory
 
     public Robot BuildRobot(Enum RobotType)
     {
-    if(RobotType == RoboticDog)
-        var parts = GetRobotPartsFor(RoboticDog);
-        return _robotService.BuildRobotDog(parts);
-    else if(RobotType == RoboticCat)
-        var parts = GetRobotPartsFor(RoboticCat);
-        return _robotService.BuildRobotCat(parts);
-    else if(RobotType == RoboticDrone)
-        var parts = GetRobotPartsFor(RoboticDrone);
-        return _robotService.BuildRobotDrone(parts);
-    else if (RobotType == RoboticCar)
-        var parts = GetRobotPartsFor(RoboticCar);
-        return _robotService.BuildRobotCar(parts);
-    else
-        return null;
+        if(RobotType == RoboticDog)
+            var parts = GetRobotPartsFor(RoboticDog);
+            return _robotService.BuildRobotDog(parts);
+        else if(RobotType == RoboticCat)
+            var parts = GetRobotPartsFor(RoboticCat);
+            return _robotService.BuildRobotCat(parts);
+        else if(RobotType == RoboticDrone)
+            var parts = GetRobotPartsFor(RoboticDrone);
+            return _robotService.BuildRobotDrone(parts);
+        else if (RobotType == RoboticCar)
+            var parts = GetRobotPartsFor(RoboticCar);
+            return _robotService.BuildRobotCar(parts);
+        else
+            return null;
     }
 
     public Car BuildCar(Enum CarType)
