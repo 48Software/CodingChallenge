@@ -33,6 +33,7 @@ Given the below code snippet, solve the problems that follow:
 3. How would you dynamically target ```secondDiv``` and add the ```yellow-card``` class to its class list? (provide the code snippet)
 
 ## Part 2
+### Section 1
 Given the below JavaScript snippet, solve the problems that follow:
 
 ```javascript
@@ -69,6 +70,7 @@ var data = [
 2. Given the same data array, process the array again this time returning only the destination objects where the holidayRanking > 4.
 3. Extend your solution to problem 2 to return an array of holiday rankings where holidayRanking > 4 then sum all the holiday rankings
 
+### Section 2
 Consider the ```compareIt``` function definition
 
 ```javascript
@@ -82,6 +84,7 @@ compareIt(5, "5");
 1. Why will the below function call return true? 
 2. How could one change this function so that data types are checked as well as values?
 
+### Section 3
 Consider the function below:
 
 ```javascript
