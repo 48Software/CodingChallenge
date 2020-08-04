@@ -13,7 +13,8 @@ The [Back-end Challenges](questions/BackEndChallenges.md) file contains the inst
 ## Front-end Challenges
 The [Front-end Challenges](questions/FrontEndChallenges.md) file contains the instructions for the the front-end challenges that you are required to complete.
 
-The front-end challenges are a mixture of code and theory.
+## Xamarin Challenges
+The [Xamarin Challenges](questions/XamarinChallenges.md) are a mixture of code and theory, specifically related to Xamarin Forms.
 
 ## Impress Us (optional)
 Have you done any recent work on personal projects, or contributed code to any open-source project?
